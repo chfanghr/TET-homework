@@ -8,31 +8,21 @@
 
 ## 2
 
-### 1
-
 > All four (outer planets) probably have cores of metals, silicates, and water.
 
 这四个（外行星）可能具有由金属、硅酸盐和水构成的核心。
-
-### 2
 
 > The designer must have access to stock lists of materials he employs.
 
 设计师应该~~有访问~~*有权访问*他所需要的材料的库存清单~~的权限~~。
 
-### 3
-
 > Part adjustment and repair must be performed on regular basis if an acceptable printed product is to be the end product.
 
 如果~~一个打印产品将成为最终产品~~*想要使印刷产品达标*，则打印机零件必须定期进行维修和调整。
 
-### 4
-
 > The doctor analyzed the blood sample for anemia.
 
 医生分析了血样以检查*患者*是否贫血。
-
-### 5
 
 > Manufacturing processes may be classified as unit production with small quantities being made and mass production with large number of identical part being produced.
 
@@ -40,15 +30,11 @@
 
 ...分为....，一种是....，另一种是....。前者指.....，后者指.....。 
 
-### 6
-
 > Many elements in nature are found to be mixtures of different isotopes.
 
 ~~很多的元素都在自然界中以不同种同位素混合的形式被发现。~~
 
 人们发现，自然界中的很多元素都是不同同位素的混合物。
-
-### 7
 
 > The two units used most frequently in electricity are ampere and volt: this is the unit of voltage and that of current.
 

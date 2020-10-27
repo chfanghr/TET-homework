@@ -48,9 +48,11 @@
 
 ## 4
 > ANTHROPOLOGISTS have found that polyandry—the union of one woman and more than one man—is a rarity in humans. Across thousands of studied societies, just a few dozen polyandrous cultures exist, widely scattered around the world. For the most part, the guess is that cultural factors are at work. Among rodents, however, the practice is both widespread and well understood: it cuts down on infanticide. Males who have not sired with a given female will kill her newborns to prevent the spread of his rival's genes, and to free her from the burden of raising another's young in favor of his own. 
-In a classic sexual arms-race case, the practice of polyandry won out. Males cannot distinguish their own young from a rival's, so a female that gives birth to young from more than one male will have protected them all from any individual father's aggression, lest he threaten his own offspring. 
+>
+> In a classic sexual arms-race case, the practice of polyandry won out. Males cannot distinguish their own young from a rival's, so a female that gives birth to young from more than one male will have protected them all from any individual father's aggression, lest he threaten his own offspring. 
 
 人类学家发现，一妻多夫制（一个女人和多个男人结合）在人类社会中很少见。在成千上万个研究过的社会中，只有少数几种一妻多夫文化，他们广泛的分布在世界各地。大多数情况下，对于这种形式存在的猜想是文化因素。但是，在啮齿动物中，这种做法既普遍且广为人知：它减少了杀婴的行为。没有与雌性繁殖后代的雄性会杀死其新生儿来防止其竞争对手将基因传递下去，同时使雌性免于抚养另一个幼体以抚养自己的后代。
+
 在一个典型的性竞赛案中，一夫多妻制制度胜出了。 雄性无法将自己的年幼后代与竞争对手的区别开来，因此，拥有多个雄性伴侣的雌性生下的后代，雄性伴侣可以保护其免受其他父亲的侵害，以免威胁到自己的后代。
 
 

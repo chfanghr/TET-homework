@@ -55,6 +55,24 @@
 
 在一个典型的性竞赛案中，一夫多妻制制度胜出了。 雄性无法将自己的年幼后代与竞争对手的区别开来，因此，拥有多个雄性伴侣的雌性生下的后代，雄性伴侣可以保护其免受其他父亲的侵害，以免威胁到自己的后代。
 
+## 5 Bats
+
+> &nbsp;&nbsp;Not all sounds made by animals serve as language, and we have only to turn to that extraordinary discovery of echo-location in bats to see a case in which the voice plays a strictly utilitarian role.
+>
+> &ensp;&ensp;To get a full appreciation of what this means we must turn first to some recent human inventions. Everyone knows that if he shouts in the vicinity of a wall or a mountainside, an echo will come back. The further off this solid obstruction, the longer time will elapse for the return of the echo. A sound made by tapping on the hull of a ship will be reflected from the sea bottom, and by measuring the time interval between the taps and the receipt of the echoes, the depth of the sea at that point can be calculated. So was born the echo-sounding apparatus, now in general use in ships.
+>
+> &ensp;&ensp;Every solid object will reflect a sound, varying according to the size and nature of the object. A shoal of fish will do this. So it is a comparatively simple step from locating the sea bottom to locating a shoal of fish. With experience, and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish, by the pattern of its echo.
+>
+> &ensp;&ensp;It has been found that certain bats emit squeaks and by receiving the echoes, they can locate and steer clear of obstacles -- or locate flying insects on which they feed. This echo-location in bats is often compared with radar, the principle of which is similar.
+
+
+&ensp;&ensp;动物发出的声音不只具有作为语言交流载体的作用。我们只需要了解一下有关蝙蝠回声定位的非凡发现，就可以看出声音在这个案例中具有非常重要的现实意义。
+
+&ensp;&ensp;为了清楚的解释这意味着什么，我们可以先看看人类近几十年来的发明。每个人知道，如果一个人在山脚下或者朝着山壁大声叫喊，就会产生回音。发声者离固体障碍物越远，回音返回所消耗的时间越长。如果通过敲击船体产生一个声音，这个声音经过海底的反射会产生一个回音。通过在某一点处测量从敲击船体到收到回声的时间间隔，可以计算出改点的海洋深度。由此，回声测量仪诞生了。现在这种仪器在各种船舶上被广泛使用着。
+
+&ensp;&ensp;每一个固体物体都会反射声音，而回声的具体特性则与物体的大小和性质有关。鱼群也具有这样的特点。因此，从定位海洋底部到定位鱼群的位置，这是一个比较简单的步骤。现在，凭借经验和改进了的回声测量仪，我们不仅能够确定鱼群的位置，而且能通过回波特征来确定是鲱鱼、鳕鱼还是其他鱼类。
+
+&ensp;&ensp;研究发现，有一些蝙蝠会发出尖叫，通过接收回声，它们可以找到并避开障碍物，或者确定它们赖以为生的昆虫的位置。蝙蝠的回声定位常常被与雷达相比较，而这两者的原理有相似之处。
 
 
 

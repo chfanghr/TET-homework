@@ -1,4 +1,4 @@
-# 科技英语翻译作业 ![Lint](https://github.com/chfanghr/TET-homework/workflows/Lint/badge.svg) ![To PDF](https://github.com/chfanghr/TET-homework/workflows/To%20PDF/badge.svg)
+# 科技英语翻译作业 ![Lint](https://github.com/chfanghr/TET-homework/workflows/Lint/badge.svg)
 
 ## 1
 

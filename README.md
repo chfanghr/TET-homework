@@ -74,5 +74,24 @@
 
 &ensp;&ensp;研究发现，有一些蝙蝠会发出尖叫，通过接收回声，它们可以找到并避开障碍物，或者确定它们赖以为生的昆虫的位置。蝙蝠的回声定位常常被与雷达相比较，而这两者的原理有相似之处。
 
+## 6 Of warming and warnings
 
+>&ensp;&ensp;“SCIENCE has spoken,” said Ban Ki-Moon, the UN’s secretary general. “Time is not on our side. Leaders must act.” He was reacting to the latest assessment of the state of the global climate by the Intergovernmental Panel on Climate Change (IPCC), a group of scientists who advise governments.
+>
+>&ensp;&ensp;Rajendra Pachauri, the IPCC's chairman, agreed. “We have little time before the window of opportunity to stay within 2°C of warming closes,” he said. (Governments have promised not to let global temperatures rise by more than that amount compared with pre-industrial levels.) Bill McKibben, an American climate campaigner, went for broke, calling the report “just short of announcing that climate change will produce a zombie apocalypse, plus random beheadings, plus Ebola”.
+>
+>&ensp;&ensp;The assessment, it should be said, is sobering. But it does not justify alarmism.
+>
+>&ensp;&ensp;...
+>
+>&ensp;&ensp;Correction: An earlier version of this article suggested that the “severe, pervasive and irreversible impacts” mentioned by the IPCC would only occur in its worst-case projections. In fact, the report makes no such qualification. Sorry.
 
+&ensp;&ensp;联合国秘书长潘基文说道：“科学已经表明了，时间并不在我们这边。各国领导人都应该采取行动。” 这是他对政府间气候变化专门委员会（IPCC）对全球气候变暖的最新评估报告作出的回应。
+
+&ensp;&ensp;IPCC主席拉金德拉·帕乔里对此表示同意。他说道：“在保持升温幅度在2摄氏度的机会之窗关闭之前，我们的时间不多了。”（各国政府已经承诺不会让全球气温上升总幅度超过工业化之前的水平。）美国气候活动家比尔·麦克基本则大发雷霆，称这份报告无异于宣布气候变暖将“造成一场僵尸危机，外加随机斩首，外加埃博拉疫情”。
+
+&ensp; &ensp;这份报告应该说是非常发人深省的，但它不应该成为危言耸听的依据。
+
+&ensp;&ensp;...
+
+&ensp;&ensp;更正：本文的早期版本认为IPCC报告所提及的“严重、普遍和不可逆转的影响”只有在最坏的情况下才会发生。事实上，该报告并未做出这样的限定。抱歉。

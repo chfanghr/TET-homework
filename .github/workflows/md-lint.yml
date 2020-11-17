@@ -4,7 +4,7 @@ on:
   push:
     paths:
       - '**.md'
-
+      - '.github/workflows/md-lint.yml'
 jobs:
   delivery:
 

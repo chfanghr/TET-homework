@@ -4,7 +4,7 @@ on:
   push:
     paths:
     - '**.md'
-
+    - '.github/workflows/md-to-pdf.yml'
 jobs:
   convert_md: 
     runs-on: ubuntu-latest

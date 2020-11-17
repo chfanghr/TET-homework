@@ -26,3 +26,13 @@ jobs:
         tag_name: rev-${{ github.sha }}
         release_name: rev-${{ github.sha }}
         prerelease: true
+    - name: Upload Release Asset
+      id: upload-release-asset
+      uses: actions/upload-release-asset@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        upload_url: ${{ steps.create_release.outputs.upload_url }} 
+        asset_path: ./pdfs/README.pdf
+        asset_name: README.pdf
+        asset_content_type: application/pdf

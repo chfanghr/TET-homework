@@ -47,9 +47,10 @@
 远程控制机器人：当人类由于工作场所危险、过于遥远或者无法进入而无法直接在现场进行工作时，远程操控的机器人便有了用武之地。远程控制机器人不是按照预定的轨迹进行移动，而是由在远程的人类控制员进行操控。机器人可能处于另一个房间或者是国家，也可能具有相对于操作者不同的尺度。 与开放式手术相比，腹腔镜手术机器人能够使外科医生在患者体内进行较小尺度上的操作，从而极大的缩短了患者的术后恢复时间。作家玛格丽特·阿特伍德~~将远程操控机器人用于另一个有趣的用途~~发现了远程操作机器人的另一种妙用，她最近开始用机械笔来远程~~给书签名~~签售作品。另一方面，iRobot的ConnectR机器人旨在供人们方便的与远方的亲人和朋友联系。此外，还有一种机器人被用于使~~处于世界任何地方的~~医生能与处于世界任何地方的病人进行交流，这使得每个医生能够~~帮助~~*监护*的病人数量增加了。
 
 ## 4
-> ANTHROPOLOGISTS have found that polyandry—the union of one woman and more than one man—is a rarity in humans. Across thousands of studied societies, just a few dozen polyandrous cultures exist, widely scattered around the world. For the most part, the guess is that cultural factors are at work. Among rodents, however, the practice is both widespread and well understood: it cuts down on infanticide. Males who have not sired with a given female will kill her newborns to prevent the spread of his rival's genes, and to free her from the burden of raising another's young in favor of his own. 
+
+> ANTHROPOLOGISTS have found that polyandry—the union of one woman and more than one man—is a rarity in humans. Across thousands of studied societies, just a few dozen polyandrous cultures exist, widely scattered around the world. For the most part, the guess is that cultural factors are at work. Among rodents, however, the practice is both widespread and well understood: it cuts down on infanticide. Males who have not sired with a given female will kill her newborns to prevent the spread of his rival's genes, and to free her from the burden of raising another's young in favor of his own.
 >
-> In a classic sexual arms-race case, the practice of polyandry won out. Males cannot distinguish their own young from a rival's, so a female that gives birth to young from more than one male will have protected them all from any individual father's aggression, lest he threaten his own offspring. 
+> In a classic sexual arms-race case, the practice of polyandry won out. Males cannot distinguish their own young from a rival's, so a female that gives birth to young from more than one male will have protected them all from any individual father's aggression, lest he threaten his own offspring.
 
 人类学家发现，一妻多夫制（一个女人和多个男人结合）在人类社会中很少见。在成千上万个研究过的社会中，只有少数几种一妻多夫文化，他们广泛的分布在世界各地。大多数情况下，对于这种形式存在的猜想是文化因素。但是，在啮齿动物中，这种做法既普遍且广为人知：它减少了杀婴的行为。没有与雌性繁殖后代的雄性会杀死其新生儿来防止其竞争对手将基因传递下去，同时使雌性免于抚养另一个幼体以抚养自己的后代。
 
@@ -88,7 +89,7 @@
 
 &ensp;&ensp;联合国秘书长潘基文说道：“科学已经表明了，时间并不在我们这边。各国领导人都应该采取行动。” 这是他对政府间气候变化专门委员会（IPCC）对全球气候变暖的最新评估报告作出的回应。
 
-&ensp;&ensp;IPCC主席拉金德拉·帕乔里对此表示同意。他说道：“在保持升温幅度在2摄氏度的机会之窗关闭之前，我们的时间不多了。”（各国政府已经承诺不会让全球气温上升总幅度超过工业化之前的水平。）美国气候活动家比尔·麦克基本则大发雷霆，称这份报告无异于宣布气候变暖将“造成一场僵尸危机，外加随机斩首，外加埃博拉疫情”。
+&ensp;&ensp;IPCC主席拉金德拉·帕乔里对此表示赞同。他说道：“在保持升温幅度在2摄氏度的机会之窗关闭之前，我们的时间不多了。”（各国政府已经承诺不会让全球气温上升总幅度超过工业化之前的水平。）美国气候活动家比尔·麦克基本则大发雷霆，称这份报告无异于宣布气候变暖将“造成一场僵尸危机，外加随机斩首，外加埃博拉疫情”。
 
 &ensp; &ensp;这份报告应该说是非常发人深省的，但它不应该成为危言耸听的依据。
 

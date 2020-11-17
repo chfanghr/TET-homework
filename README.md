@@ -28,7 +28,7 @@
 
 制造过程可以被分类为两种：一种是只生产少量产品的单位生产，另一种是大量生产相同零件的大批量生产。
 
-...分为....，一种是....，另一种是....。前者指.....，后者指.....。 
+...分为....，一种是....，另一种是....。前者指.....，后者指.....。
 
 > Many elements in nature are found to be mixtures of different isotopes.
 
@@ -65,7 +65,6 @@
 > &ensp;&ensp;Every solid object will reflect a sound, varying according to the size and nature of the object. A shoal of fish will do this. So it is a comparatively simple step from locating the sea bottom to locating a shoal of fish. With experience, and with improved apparatus, it is now possible not only to locate a shoal but to tell if it is herring, cod, or other well-known fish, by the pattern of its echo.
 >
 > &ensp;&ensp;It has been found that certain bats emit squeaks and by receiving the echoes, they can locate and steer clear of obstacles -- or locate flying insects on which they feed. This echo-location in bats is often compared with radar, the principle of which is similar.
-
 
 &ensp;&ensp;动物发出的声音不只具有作为语言交流载体的作用。我们只需要了解一下有关蝙蝠回声定位的非凡发现，就可以看出声音在这个案例中具有非常重要的现实意义。
 

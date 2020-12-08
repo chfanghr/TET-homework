@@ -95,3 +95,12 @@
 &ensp;&ensp;...
 
 &ensp;&ensp;更正：本文的早期版本认为IPCC报告所提及的“严重、普遍和不可逆转的影响”只有在最坏的情况下才会发生。事实上，该报告并未做出这样的限定。抱歉。
+
+## 8 The others may live
+
+> IT IS a solemn custom in science to mark the names of collaborators who pass away during the course of an article's publication with a superscript no different than that indicating their academic affiliation. Very rare indeed is the case that five names on a single report should share that mark. Such a report was published in Science this week. It demonstrates the astonishing speed at which genetic sequencing can now be carried out. At the same time, the fact that Ebola claimed five of its authors is testament to the deadliness of the paper's subject.
+
+科学界有一个庄严的习惯，就是将论文出版期间去世的合作作者的姓名用特殊的符号上标加以标注，而不是像一般情况一样指出作者的单位。事实上，在一篇论文中有5个作者的姓名上都有这样的标记的情况是十分罕见的。本周的《科学》杂志上就发表了这样一篇论文。该论文展示了现在基因测序能以惊人的速度进行。于此同时，埃博拉病毒夺走了5名作者的生命，这证明了该论文主题的致命性。
+
+[![](img/7_superscript_of_pass_away_authors.png)](https://science.sciencemag.org/content/345/6202/1369)
+

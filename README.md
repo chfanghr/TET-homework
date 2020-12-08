@@ -96,6 +96,16 @@
 
 &ensp;&ensp;更正：本文的早期版本认为IPCC报告所提及的“严重、普遍和不可逆转的影响”只有在最坏的情况下才会发生。事实上，该报告并未做出这样的限定。抱歉。
 
+## 7
+
+> &ensp;&ensp;For decades it has been known that animals can be ‘vaccinated’ against cancer. This is how it works: Tumor cells can be weakened and injected like a vaccine into a mouse. Afterwards, if these same tumor cells, at full strength, are injected into the mouse, the mouse will reject the tumor cells and cancer will not develop. However, if a mouse has not been vaccinated in this manner, the tumor cells will “take root” and the mouse will develop cancer.
+>
+> &ensp;&ensp;Although it was clear that animals could be vaccinated against cancer, for a long time it was not known how it worked. Then about 25 years ago, a graduate student named Pramod Srivastava began a series of experiments. He took tumor cells, broke them open, and separated the different parts of the cells into fractions. He then used each of the fractions as “vaccines” to see which fraction protected the mice from developing cancer. After many experiments, he found that the element responsible for protecting the mice was heat shock proteins.
+
+&ensp;&ensp;几十年来，人类已经发现动物能够接种防癌疫苗。以下是操作流程：肿瘤细胞可以被削弱，然后像疫苗一样注射到小鼠体内。之后，如果将相同种类但未经削弱的肿瘤细胞注射到小鼠体内，小鼠会排斥这些肿瘤细胞，从而不会患上癌症。然而，如果小鼠没有按照这种方法接种疫苗，肿瘤细胞就会在小鼠体内“生根”，小鼠就会患上癌症。
+
+&ensp;&ensp;尽管动物可以接种疫苗是众所周知的事实，但在很长一段时间里，它的工作原理不为人知。然后，在大约25年前，一位叫普拉莫德·斯里瓦斯塔瓦的研究生开始了一系列实验。他将肿瘤细胞裂解，将细胞的不同部分分离成各种组分([亚细胞分级分离](http://www.labome.cn/method/Subcellular-Fractionation.html))。然后他把这些组分作为“疫苗”，从而观察是哪些组分能保护小鼠不患癌症。经过多次实验，他发现具有保护作用的组分是热休克蛋白。
+
 ## 8 The others may live
 
 > IT IS a solemn custom in science to mark the names of collaborators who pass away during the course of an article's publication with a superscript no different than that indicating their academic affiliation. Very rare indeed is the case that five names on a single report should share that mark. Such a report was published in Science this week. It demonstrates the astonishing speed at which genetic sequencing can now be carried out. At the same time, the fact that Ebola claimed five of its authors is testament to the deadliness of the paper's subject.
@@ -103,4 +113,5 @@
 科学界有一个庄严的习惯，就是将论文出版期间去世的合作作者的姓名用特殊的符号上标加以标注，而不是像一般情况一样指出作者的单位。事实上，在一篇论文中有5个作者的姓名上都有这样的标记的情况是十分罕见的。本周的《科学》杂志上就发表了这样一篇论文。该论文展示了现在基因测序能以惊人的速度进行。于此同时，埃博拉病毒夺走了5名作者的生命，这证明了该论文主题的致命性。
 
 [![](img/7_superscript_of_pass_away_authors.png)](https://science.sciencemag.org/content/345/6202/1369)
+
 

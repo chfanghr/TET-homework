@@ -114,7 +114,7 @@
 
 [![](img/7_superscript_of_pass_away_authors.png)](https://science.sciencemag.org/content/345/6202/1369)
 
-[1]: https://en.wikipedia.org/wiki/Dagger_(typography)	"When placed immediately before or after a person's name, it indicates that the person is deceased"
+[1]: https://en.wikipedia.org/wiki/Dagger_(typography) "When placed immediately before or after a person's name, it indicates that the person is deceased"
 
 ## 9
 

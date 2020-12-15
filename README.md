@@ -116,4 +116,26 @@
 
 [1]: https://en.wikipedia.org/wiki/Dagger_(typography)	"When placed immediately before or after a person's name, it indicates that the person is deceased"
 
+## 9
 
+![](img/9.PNG)
+
+> Mass is to be distinguished from weight, which is measured by the pull of gravity on a body.
+
+重量与质量是不同的概念，重量是用重力对物体的拉力来衡量的。
+
+> Stainless steel, which is very popular for its resistance to rusting, contains large percentage of chromium.
+
+不锈钢是一种因不易生锈而广受欢迎的材料，它的铬元素含量很高。
+
+> The interpretation, which is not entirely convincing, is at least partly true.
+
+这种解释并不能完全让人信服，但至少其大部分是正确的。
+
+> Cancer should be suspected in persons who have any if symptons and signs for unaccountable causes and for an unreasonable period.
+
+对于因不明原因，在不合理的时期出现上述种种症状和体征的人，都应该怀疑是罹患了癌症。
+
+> World population is increasing at a race with which foos and other production may not be able to keep pace.
+
+世界人口正在以粮食和其他产品产能可能无法跟进的速度增长。

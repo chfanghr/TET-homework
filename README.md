@@ -126,7 +126,8 @@
 
 > Stainless steel, which is very popular for its resistance to rusting, contains large percentage of chromium.
 
-不锈钢是一种因不易生锈而广受欢迎的材料，它的铬元素含量很高。
+~~不锈钢是一种因不易生锈而广受欢迎的材料，它的铬元素含量很高。~~<br>
+具有突出防锈性能的不锈钢含有大量的铬元素。
 
 > The interpretation, which is not entirely convincing, is at least partly true.
 

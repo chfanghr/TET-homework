@@ -126,7 +126,8 @@
 
 > Stainless steel, which is very popular for its resistance to rusting, contains large percentage of chromium.
 
-~~不锈钢是一种因不易生锈而广受欢迎的材料，它的铬元素含量很高。~~<br>
+~~不锈钢是一种因不易生锈而广受欢迎的材料，它的铬元素含量很高。~~
+
 具有突出防锈性能的不锈钢含有大量的铬元素。
 
 > The interpretation, which is not entirely convincing, is at least partly true.
@@ -135,11 +136,13 @@
 
 > Cancer should be suspected in persons who have any if symptons and signs for unaccountable causes and for an unreasonable period.
 
-~~对于因不明原因，在不合理的时期出现上述种种症状和体征的人，都应该怀疑是罹患了癌症。~~<br>
+~~对于因不明原因，在不合理的时期出现上述种种症状和体征的人，都应该怀疑是罹患了癌症。~~
+
 如果病人具有任何上述症状和体征，病因难以说明，且持续时间过长，就应该怀疑病人患了癌症。
 
 > World population is increasing at a race with which foos and other production may not be able to keep pace.
 
-~~世界人口正在以粮食和其他产品产能可能无法跟进的速度增长。~~<br>
+~~世界人口正在以粮食和其他产品产能可能无法跟进的速度增长。~~
+
 世界人口正在迅速增长，使得粮食和其他产品的产能跟不上其增长速度。
 

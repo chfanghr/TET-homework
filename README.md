@@ -150,7 +150,7 @@
 
 ## 10
 
-> Language policies for the judiciary should not deny justice. The use of English as the primary language of legal discourse is common in Anglophone Africa, where judicial systems are based on the British legal system. This often alienates the people from the law since most of them have little or no facility in English. 
+> Language policies for the judiciary should not deny justice. The use of English as the primary language of legal discourse is common in Anglophone Africa, where judicial systems are based on the British legal system. This often alienates the people from the law since most of them have little or no facility in English.
 
 司法机构的语言政策不应该阻碍司法公正。在非洲英语国家，将英语作为法律文书的主要语言是十分常见的，因为这些国家的司法体系都以英国的司法体系为基础。这往往导致人民与法律之间产生隔阂，因为他们中的大多数人对英语的掌握程度不高甚至根本不会英语。
 

@@ -74,6 +74,8 @@
 
 &ensp;&ensp;研究发现，有一些蝙蝠会发出尖叫，通过接收回声，它们可以找到并避开障碍物，或者确定它们赖以为生的昆虫的位置。蝙蝠的回声定位常常被与雷达相比较，而这两者的原理有相似之处。
 
+![](img/5_correction.png)
+
 ## 6 Of warming and warnings
 
 >&ensp;&ensp;“SCIENCE has spoken,” said Ban Ki-Moon, the UN’s secretary general. “Time is not on our side. Leaders must act.” He was reacting to the latest assessment of the state of the global climate by the Intergovernmental Panel on Climate Change (IPCC), a group of scientists who advise governments.

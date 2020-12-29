@@ -143,3 +143,8 @@
 ~~世界人口正在以粮食和其他产品产能可能无法跟进的速度增长。~~<br>
 世界人口正在迅速增长，使得粮食和其他产品的产能跟不上其增长速度。
 
+## 10
+
+> Language policies for the judiciary should not deny justice. The use of English as the primary language of legal discourse is common in Anglophone Africa, where judicial systems are based on the British legal system. This often alienates the people from the law since most of them have little or no facility in English. 
+
+> South Africa has attempted to widen choices for non-English and non-Afrikaans speakers by calling for 11 constitutionally recognized official languages. Despite an ambitious court interpreter program that puts most other countries to shame, there is still a bias towards English.

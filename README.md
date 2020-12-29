@@ -120,7 +120,7 @@
 
 ## 9
 
-![](img/9.PNG)
+![](img/9.png)
 
 > Mass is to be distinguished from weight, which is measured by the pull of gravity on a body.
 

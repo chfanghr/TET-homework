@@ -154,4 +154,4 @@
 
 > South Africa has attempted to widen choices for non-English and non-Afrikaans speakers by calling for 11 constitutionally recognized official languages. Despite an ambitious court interpreter program that puts most other countries to shame, there is still a bias towards English.
 
-南非已经试图过通过呼吁宪法承认十一种官方语言的方式，来扩大非英语和非非洲裔人群的选择空间。尽管其有一个足以使其他国家感到羞愧的、野心勃勃的法庭口译员计划，但偏向于英语得情况仍然存在。
+南非已经试图过通过呼吁宪法承认十一种官方语言的方式，来扩大非英语和非非洲裔人群的选择空间。尽管其有一个足以使其他国家感到羞愧的、野心勃勃的法庭口译员计划，但偏向于英语的情况仍然存在。

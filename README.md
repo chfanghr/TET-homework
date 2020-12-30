@@ -1,5 +1,7 @@
 # 科技英语翻译作业 ![Lint](https://github.com/chfanghr/TET-homework/workflows/Lint/badge.svg)
 
+Note that this repository is archived since I have passed the final examination.
+
 ## 1
 
 > The programmer can concentrate on the general program logic, without bogged down in the syntactic details of the individual instructions. In fact, this entire process might be repeated serveral times, with more programming detail added at each stage. Once the overall program strategy has been clearly established, then the syntactic details of the language can be considered. Such an approach is often referred to as "top-down" programming.
